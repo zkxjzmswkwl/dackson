@@ -4,6 +4,8 @@
 
 Dackson is a loose port Java's Jackson library for serializing and deserializing JSON data into user-defined data structures.
 
+Dackson, as of writing, should be attributed to @leeavital - it was forked and updated to adhere to breaking language changes.
+
 # Installation
 
 Dackson is published on the [DUB package registry](http://code.dlang.org/packages/dackson).
